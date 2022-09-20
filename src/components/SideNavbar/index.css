@@ -1,0 +1,47 @@
+.final-web-page {
+  background: #e4ecf7;
+  min-height: 100vh;
+}
+.left-side-options {
+  background: #ffffff;
+  margin: 8px;
+  border-radius: 4px;
+  height: 60vh;
+  width: 15vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.set-of-items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  box-shadow: 1px 2px #eeeeee;
+  border-left: 4px solid #f16524;
+  margin-left: 10px;
+  margin-top: 20px;
+  padding: 10px;
+}
+.set-of-items2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.set-of-items3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  margin-left: 10px;
+}
+.ai-logos {
+  margin-right: 10px;
+  font-weight: 600;
+}

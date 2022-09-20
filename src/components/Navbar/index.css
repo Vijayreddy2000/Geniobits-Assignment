@@ -1,0 +1,38 @@
+.navbar-background {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 20px;
+  background: #ffffff;
+}
+.logo {
+  height: 40px;
+  margin-right: 20px;
+}
+.options {
+  display: flex;
+  flex-direction: row;
+}
+.icons {
+  background-color: skyblue;
+  border-radius: 20px;
+  margin-right: 10px;
+  height: 30px;
+  width: 30px;
+}
+.nav {
+  padding-left: 60px;
+  font-weight: 700;
+  font-family: "Roboto";
+}
+.tasks-paragraph {
+  color: green;
+}
+.nav2 {
+  padding-left: 10px;
+  font-weight: 700;
+  font-family: "Roboto";
+}
